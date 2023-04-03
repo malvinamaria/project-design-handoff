@@ -1,9 +1,13 @@
-import React from 'react'
+import React from 'react';
+import { ButtonCss } from './components/ButtonCss';
+import { Button } from './components/Button';
 
 export const App = () => {
   return (
-    <div>
-      Find me in src/app.js!
+    <div className="app">
+      <ButtonCss />
+      <Button cta>ORDERnumber1</Button>
+      <Button outlined>ORDERnumber2</Button>
     </div>
-  )
-}
+  );
+};
