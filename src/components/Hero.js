@@ -14,7 +14,7 @@ export const Hero = () => {
       <div className="hero-text">
         <h1>The health revolution begins with you</h1>
         <h2>
-          Acess 100+ yoga classes and receive a personalized nutrition plan -
+          Access 100+ yoga classes and receive a personalized nutrition plan -
           for holistic health anytime, anywhere. Achieve optimal health and
           balance through our comprehensive wellness program.
         </h2>
