@@ -1,0 +1,50 @@
+.testimonials-container {
+  height: 1798px;
+  background-color: #02393f;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.img-testimonials {
+  display: flex;
+  width: 342px;
+  height: 245px;
+  border-radius: 12px;
+}
+.first-p,
+.second-p,
+.third-p {
+  color: #d0c4b8;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  hanging-punctuation: first last;
+}
+.yogis-say {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 40px;
+  color: #d0c4b8;
+  padding: 24px 24px 24px 24px;
+  margin-top: 0;
+}
+.testimonial-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.caption {
+  display: flex;
+  flex-direction: row-reverse;
+  font-family: 'Libre Baskerville';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #d0c4b8;
+}

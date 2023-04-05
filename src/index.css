@@ -6,3 +6,6 @@ body {
 code {
   font-family: 'Libre Baskerville', serif;
 }
+html {
+  margin: 0;
+}
